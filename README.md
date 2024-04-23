@@ -6,7 +6,7 @@
 
 - O objetivo principal do projeto é desenvolver um site responsivo e bem projetado que apresente os serviços da academia, sua equipe e forneça uma maneira fácil para os visitantes entrarem em contato. Você usará HTML, CSS e possivelmente JavaScript para criar o layout e a funcionalidade do site. Ao final do projeto, você terá uma compreensão sólida de como criar um site completo usando essas tecnologias.  
 
-# 📦 Tecnologias usadas
+# 💻 Tecnologias usadas
 
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): Utilizado para estruturar o conteúdo das páginas web, incluindo a criação de elementos como seções, formulários e listas.
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white): O CSS foi empregado para estilizar os elementos HTML, definindo o layout, cores, fontes e outros aspectos visuais das páginas. O framework Bootstrap foi utilizado para facilitar o processo de estilização e garantir um design responsivo e consistente em diferentes dispositivos.
