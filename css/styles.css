@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* Novo estilo para o Hero Section */
+.hero {
+  background-image: url('../image/academia.jpg'); /* Adicione uma imagem de fundo */
+  background-size: cover;
+  color: #ffffff; /* Cor do texto no slide */
+  padding: 100px 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.hero h1, .hero p {
+  color: rgba(33, 33, 33, 0.9); /* Tom de cinza escuro que parece preto */
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+/* Estilo para a seção de Sobre Nós */
+.about {
+  background-color: #f9f9f9;
+  padding: 50px 0;
+  text-align: justify; /* Justifica o texto */
+}
+
+/* Estilo para os serviços */
+.services {
+  padding: 50px 0;
+  text-align: justify; /* Justifica o texto */
+}
+
+.service-item {
+  text-align: center;
+}
+
+.service-item h3 {
+  font-size: 1.5rem;
+}
+
+
+/* Estilo para o formulário de inscrição */
+.signup {
+  background-color: #f9f9f9;
+  padding: 50px 0;
+}
+
+/* Estilo para a seção de contato */
+.contact {
+  padding: 50px 0;
+}
+
+/* Estilo para o footer */
+.footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+/* Estilo para links do navbar */
+.navbar .nav-link {
+  color: #000;
+}
+
+.navbar .nav-link:hover {
+  color: #fff;
+}
+
+/* Estilo para o botão de inscrição */
+.btn-primary {
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+
+.btn-primary:hover {
+  background-color: #c82333;
+  border-color: #bd2130;
+}
+
+/* Estilo para a mensagem de sucesso */
+.success-message {
+  display: none;
+  background-color: #28a745;
+  color: #fff;
+  padding: 10px 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+/* Estilo para o botão de envio após o envio bem-sucedido */
+.button-sent {
+  background-color: #28a745 !important;
+  border-color: #28a745 !important;
+}

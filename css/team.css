@@ -1,0 +1,33 @@
+/* Estilo para a seção da equipe */
+.team {
+    padding: 50px 0;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .team h2 {
+    margin-bottom: 40px;
+  }
+  
+  .team-member {
+    margin-bottom: 30px;
+  }
+  
+  .team-member img {
+    width: 100%;
+    border-radius: 50%;
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 15px;
+  }
+  
+  .team-member h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .team-member p {
+    color: #777;
+    font-size: 1rem;
+  }
+  

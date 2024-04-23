@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscrição - Academia Fitness</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="shortcut icon" href="image/icone.png" type="image/x-icon">
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+        <a class="navbar-brand" href="#">Academia Fitness</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.html">Sobre</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="services.html">Serviços</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Inscrição</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="team.html">Equipe</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="testimonials.html">Depoimentos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="blog.html">Blog</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contato</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Sign Up Section -->
+<section id="signup" class="signup">
+    <div class="container">
+        <h2>Inscrição</h2>
+        <p>Preencha o formulário abaixo para se inscrever na nossa academia.</p>
+        <form>
+            <div class="form-group">
+                <label for="name">Nome:</label>
+                <input type="text" class="form-control" id="name" placeholder="Digite seu nome" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" class="form-control" id="email" placeholder="Digite seu email" required>
+            </div>
+            <div class="form-group">
+                <label for="phone">Telefone:</label>
+                <input type="tel" class="form-control" id="phone" placeholder="Digite seu telefone" required>
+            </div>
+            <div class="form-group">
+                <label for="gender">Gênero:</label>
+                <select class="form-control" id="gender">
+                    <option value="select"></option>
+                    <option value="male">Masculino</option>
+                    <option value="female">Feminino</option>
+                    <option value="other">Outro</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="birthdate">Data de Nascimento:</label>
+                <input type="date" class="form-control" id="birthdate" required>
+            </div>
+            <div class="form-group">
+                <label for="training-preference">Preferência de Treino:</label>
+                <textarea class="form-control" id="training-preference" rows="3" placeholder="Descreva suas preferências de treino"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="fitness-goals">Objetivos de Fitness:</label>
+                <textarea class="form-control" id="fitness-goals" rows="3" placeholder="Descreva seus objetivos de fitness"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar</button>
+        </form>
+        <!-- Div para exibir a mensagem de sucesso -->
+        <div id="signup-success" class="success-message"></div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="container">
+        <span class="text-muted">© 2024 Academia Fitness. Todos os direitos reservados.</span>
+    </div>
+</footer>
+
+<!-- Bootstrap JS, Popper.js, and jQuery -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<!-- Script personalizado -->
+<script src="./js/script.js"></script>
+
+</body>
+</html>
