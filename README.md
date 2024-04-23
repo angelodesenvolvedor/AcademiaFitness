@@ -18,4 +18,4 @@
 * **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
   
 # 📄 Licença
-- Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca)
+- Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/AcademiaFitness/tree/main?tab=MIT-1-ov-file)
