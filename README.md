@@ -18,4 +18,4 @@
 * **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
   
 # 📄 Licença
-- Esse projeto está sob a licença MIT license - acesse os detalhes LICENSE.md.
+- Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca)
