@@ -13,3 +13,9 @@
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E): O JavaScript foi utilizado para adicionar interatividade às páginas, como a validação de formulários, animações e manipulação dinâmica do conteúdo.
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white): O framework Bootstrap foi empregado para criar um layout responsivo e adaptável, garantindo uma boa experiência de usuário em dispositivos de diferentes tamanhos e resoluções de tela.
 - ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white): O jQuery, uma biblioteca JavaScript, foi utilizada para facilitar a manipulação do DOM (Document Object Model), permitindo interações mais simples e eficientes com os elementos HTML, caso necessário.
+
+# 👷 Autor
+- **Angelo Silvano** - Front-End Developer - nome_do_dev
+  
+# 📄 Licença
+- Esse projeto está sob a licença MIT license - acesse os detalhes LICENSE.md.
