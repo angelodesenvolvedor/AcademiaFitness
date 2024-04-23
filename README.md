@@ -15,7 +15,7 @@
 - ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white): O jQuery, uma biblioteca JavaScript, foi utilizada para facilitar a manipulação do DOM (Document Object Model), permitindo interações mais simples e eficientes com os elementos HTML, caso necessário.
 
 # 👷 Autor
-- **Angelo Silvano** - Front-End Developer - nome_do_dev
+* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
   
 # 📄 Licença
 - Esse projeto está sob a licença MIT license - acesse os detalhes LICENSE.md.
