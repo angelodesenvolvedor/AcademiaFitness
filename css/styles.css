@@ -1,20 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 /* Novo estilo para o Hero Section */
 .hero {
-  background-image: url('../image/academia.jpg'); /* Adicione uma imagem de fundo */
+  background-image: url('../image/academia.jpg');
   background-size: cover;
-  color: #ffffff; /* Cor do texto no slide */
+  color: #ffffff;
   padding: 100px 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
 
-.hero h1, .hero p {
-  color: rgba(33, 33, 33, 0.9); /* Tom de cinza escuro que parece preto */
+.hero h1 {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); 
+  font-size: 36px; 
+  letter-spacing: 1px; 
 }
 
-.hero h1 {
-  font-size: 3rem;
+.hero p {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); 
+  font-size: 18px; 
+  line-height: 1.5; 
 }
 
 /* Estilo para a seção de Sobre Nós */
