@@ -1,3 +1,5 @@
+![image](https://github.com/angelodesenvolvedor/AcademiaFitness/assets/98216100/4ada574e-9a71-4929-95b9-94251d964e90)
+
 # AcademiaFitness
 * AcademiaFitness é um projeto web para uma academia fictícia, projetado para fornecer informações sobre a academia, seus serviços, equipe e formas de contato. O objetivo do projeto é criar um site responsivo e atraente que promova os serviços da academia e incentive os visitantes a se envolverem.
 
